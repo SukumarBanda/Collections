@@ -25,5 +25,6 @@ public class CountCharacters {
 			}
 		}
 		System.out.println("Count od character "+obj);
+		System.out.println("=======================");
 	}
 }
