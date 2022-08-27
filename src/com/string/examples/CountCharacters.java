@@ -6,6 +6,8 @@ import java.util.Scanner;
 public class CountCharacters {
 	
 	public static void main(String[] args) {
+		//main method
+		//Adding second line comment
 		System.out.println("Enter the String: ");
 		Scanner scan = new Scanner(System.in);
 		String str = scan.nextLine();
